@@ -7,8 +7,6 @@ public class Aluno extends BasePessoa{
     private String matricula;
     private LocalDate dataMatricula;
 
-    public Aluno() {} 
-
     public Aluno(
         int codigo, 
         String nome, 

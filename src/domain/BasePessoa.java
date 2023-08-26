@@ -12,9 +12,7 @@ public abstract class BasePessoa {
     private String rg;
     private String cpf;
     private LocalDate dataInsercao;
-
-    public BasePessoa() {}
-
+    
     public BasePessoa(
     int codigo, 
     String nome, 

@@ -7,10 +7,6 @@ public class Professor extends BasePessoa{
     private String registro;
     private LocalDate dataContratacao;
 
-    public Professor() {
-
-    }
-
     public Professor(
         int codigo, 
         String nome, 
